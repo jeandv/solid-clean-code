@@ -23,9 +23,10 @@ D – Dependency Inversion Principle (DIP)
 
 · Material: 
 
-- curso Fernando Herrera de Udemy Principios SOLID y Clean Code: https://www.udemy.com/course/solid-clean/
-- curso de Midudev sobre en youtube sobre principios SOLID react: https://www.youtube.com/watch?v=jKdt-BnTTR0&t=277s
+- Curso Fernando Herrera de Udemy Principios SOLID y Clean Code: https://www.udemy.com/course/solid-clean/
+- Curso de Midudev sobre en youtube sobre principios SOLID react: https://www.youtube.com/watch?v=jKdt-BnTTR0&t=277s
 - Libro Clean Code de Robert C. Martin
+- Libro de Clean Javascript de Miguel A. Gómez https://cleanjavascript.es/
 
 ## Autor 🤠
 
