@@ -43,7 +43,7 @@ D – Dependency Inversion Principle (DIP)
 
 · JavaScript <br>
 · TypeScript <br>
-· React <br>
+· React (midudev)<br>
 
 ## Contacto 📧
 
