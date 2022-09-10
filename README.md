@@ -12,20 +12,20 @@
 
 · Los principios S.O.L.I.D. son unas palabras que se le conoce como uno de los fundamentos de la arquitectura y desarrollo de software. Los 5 principios S.O.L.I.D. de diseño de software son: 
 
-S – Single Responsibility Principle (SRP) | Principio de responsabilidad única
+S = Single Responsibility Principle (SRP) | Principio de responsabilidad única
 
-O – Open/Closed Principle (OCP) | Principio abierto/cerrado
+O = Open/Closed Principle (OCP) | Principio abierto/cerrado
 
-L – Liskov Substitution Principle (LSP) | Principio de sustitución de Liskov
+L = Liskov Substitution Principle (LSP) | Principio de sustitución de Liskov
 
-I – Interface Segregation Principle (ISP) | Principio de segregación de interfaz
+I = Interface Segregation Principle (ISP) | Principio de segregación de interfaz
 
-D – Dependency Inversion Principle (DIP) | Principio de inversión de dependencia
+D = Dependency Inversion Principle (DIP) | Principio de inversión de dependencia
 
-· Material usadp: 
+## Material usado: 
 
 - https://www.udemy.com/course/solid-clean/
-- https://www.youtube.com/watch?v=jKdt-BnTTR0&t=277s
+- https://youtu.be/jKdt-BnTTR0
 - Libro Clean Code de Robert C. Martin
 - https://cleanjavascript.es/
 - https://konstantinlebedev.com/solid-in-react/
